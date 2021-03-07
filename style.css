@@ -1,0 +1,18 @@
+h1{
+    color:white;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content:space-between ;
+}
+body{
+    background-color:lightgreen;
+
+}
+.header{
+    background-color: red;
+    display: flex;
+   
+    justify-content: space-between;
+}
